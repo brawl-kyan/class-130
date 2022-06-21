@@ -1,0 +1,46 @@
+.note {
+font-size: 17px;
+color: turquoise;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+ background-size: cover;   
+}
+.speed
+{
+float: left;    
+}
+.speed_img
+{
+width: 200px;
+border-radius: 100px;    
+}
+#speedy
+{
+font-size: 23px;
+margin: 15px;  
+}
+.volume
+{
+float: right;    
+}
+.volume_img
+{
+width: 200px;
+border-radius: 100px;    
+}
+#volumee
+{
+font-size: 23px;
+margin: 15px;    
+}
+.play
+{
+width: 130px;
+font-size: 25px;   
+}
+canvas{
+border: 5px solid ridge red;
+border-radius: 20px;
+margin-top: 100px;    
+}
